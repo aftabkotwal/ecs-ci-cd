@@ -19,5 +19,6 @@ Build and run using Docker Compose:
 
 	$ docker login
 	$ docker-cloud stack up
+	$ docker compose-up
 
 Hello world Welcome to CI/CD!
