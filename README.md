@@ -21,4 +21,4 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 	$ docker compose-up
 
-Hello world Welcome to CI/CD from ECS
+Hello ECS
